@@ -1,0 +1,46 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+alembic
+redis
+
+# AI/ML
+langchain
+langgraph
+langchain-openai
+openai
+azure-ai-textanalytics
+azure-cognitiveservices-speech
+
+# Azure
+azure-storage-blob
+azure-identity
+
+# Task Queue
+celery
+flower
+
+# Video Processing
+pillow
+matplotlib
+numpy
+
+# Document Processing
+PyPDF2
+python-docx
+
+# Utils
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+httpx
+
+# Testing
+pytest
+pytest-asyncio

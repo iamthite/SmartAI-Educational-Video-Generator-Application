@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.env
+.venv
+*.log
+temp/
+*.mp4
+*.wav
+*.png
+*.jpg
+.pytest_cache/
